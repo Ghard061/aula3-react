@@ -1,4 +1,4 @@
-import "./Cabecalho.css";
+import "./index.css";
 
 function Cabecalho() {
   return (
