@@ -1,3 +1,5 @@
+import "./Cartao.css";
+
 const estiloItem = {
   fontWeight: "bold",
   color: "#1E2A2E"
