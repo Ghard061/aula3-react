@@ -4,10 +4,12 @@ import Cartao from "./Cartao";
 function App() {
   return (
     <>
-      <Saudacao />
-      <Cartao />
-    </>
+  <Cabecalho />
+  <Saudacao />
+  <Cartao />
+</>
   );
 }
+
 
 export default App;
