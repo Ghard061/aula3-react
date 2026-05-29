@@ -1,7 +1,13 @@
-import Saudacao from "./saudacao";
+import Saudacao from "./saudacaoaudacao";
+import Cartao from "./Cartao";
 
 function App() {
-  return <Saudacao />;
+  return (
+    <>
+      <Saudacao />
+      <Cartao />
+    </>
+  );
 }
 
 export default App;
